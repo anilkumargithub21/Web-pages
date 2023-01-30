@@ -1,0 +1,113 @@
+body{
+    background-color: rgb(99, 97, 97);
+}
+#bgimag{
+    background-image: url(../Day11/IN-en-20230103-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    height: 100vh;
+    background-size: 100%;
+    color: azure;
+    background-attachment:local;
+    width: 101.5%;
+    height: 700px;
+    position: relative;
+    bottom: 40px;
+    right: 9px;
+}
+.logo{
+    width: 150px;
+    height: 40px;
+    margin-left: 30px;
+    margin-top: 30px;
+    fill: red;
+    padding-top: 40px;
+}
+.auth{
+   position: relative;
+    bottom: 42px;
+    left: 1200px;   
+}
+a{
+    background-color: red;
+    color: rgb(235, 239, 243);
+   font-size: 0.9cm;
+   font-family:serif;
+   border-radius: 15px;
+   border-style:inset;
+    margin-left: 20px;
+    position: relative;
+    top: 6.5px;
+    text-decoration: none;
+}
+.sec2{
+   position: relative;
+   top: 100px;
+   left: 29%;
+}
+input{
+    background-color: white;
+    width: 500px;
+    height: 60px;
+    position: relative;
+    top: -40px;
+    border: 2px solid green;
+}
+
+button{
+    width: 180px;
+    height: 68px;
+    background-color: red;
+    color: azure;
+    position: relative;
+    top: -35px;
+    font-size: .7cm;
+    right: 7px;
+}
+button:hover{
+   
+    background-color: chartreuse;
+  transition: all 3s ease;
+}
+h1{
+    font-size:1.5cm ;
+    margin-left: 30px;
+}
+h1::first-letter{
+    font-size:1.8cm ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3{
+    position: relative;
+    top: -40px;
+    left: 100px;
+    font-size: x-large;
+}
+p{
+    position: relative;
+    top: -45px;
+    left:25px;
+    font-size: 0.5cm;
+}
+
+.div2{
+    position: relative;
+    margin-right: 20px;
+    bottom: 10px;
+}
+select{
+    height: 40px;
+    width: 110px;
+    letter-spacing: 2px;
+    border-radius: 5px;
+    background-color: black;
+    color: azure; 
+}
+#tv{
+    width: 101.5%;
+    height: 550px;
+    background-color: black;
+    position: relative;
+    bottom: 35px;
+    right: 9px;
+   
+}
+
