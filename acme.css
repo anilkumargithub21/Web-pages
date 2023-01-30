@@ -1,0 +1,315 @@
+body{
+  background-color:white;
+ width: 100%;
+}
+.main{
+    background-color: rgb(66, 69, 68);
+    width: 41cm;
+    height: 150px;
+    position: relative;
+    bottom: 30px;
+}
+#l{
+   width: 41cm;
+    height: 8px;
+    background-color:tomato;
+    position: relative;
+    bottom: 30px;
+}
+.acme{
+    position: relative;
+    left: 150px;
+    top: 65px;
+    color: tomato;
+    font-family: sans-serif;
+    font-size: 1cm;
+   
+}
+
+.li{
+    position: relative;
+    left: 265px;
+    bottom: 5px;
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: 1cm;
+}
+.a1{
+    text-decoration: none;
+    position: relative;
+    left: 950px;
+    bottom: 60px;
+    font-size: x-large;
+    color: tomato;
+}
+.a2{
+    text-decoration: none;
+    position: relative;
+    left: 1000px;
+    bottom: 60px;
+    font-size: x-large;
+    color: aliceblue;
+}
+.a3{
+    text-decoration: none;
+    position: relative;
+    left: 1050px;
+    bottom: 60px;
+    font-size: x-large;
+    color: aliceblue;
+}
+.a2:hover{
+color: tomato;
+}
+.a3:hover{
+    color: tomato;
+ }
+ .main2{
+    background-color: darkgray;
+    width: 41cm;
+    height: 550px;
+    position: relative;
+    bottom: 90px;
+    background-image: url(../acme/showcase.4.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+ }
+ 
+ .main3{
+    position: relative;
+    left: 180px;
+    top: 120px;
+    font-family: sans-serif;
+ }
+ 
+ .head{
+    color: aliceblue;
+    font-size: 1.8cm;
+ }
+ .sub{
+    color: aliceblue;
+    font-size: .6cm;
+    position: relative;
+    bottom: 20px;
+ }
+ .sub2{
+    color: aliceblue;
+    font-size: .6cm;
+    position: relative;
+    left: 500px;
+    bottom: 20px;
+ }
+ .main4{
+   width: 41cm;
+    height: 130px;
+    background-color: rgb(75, 78, 75);
+    position: relative;
+    bottom: 215px;
+ }
+ .p{
+    color: aliceblue;
+    font-size: .7cm;
+    font-family: sans-serif;
+    position: relative;
+    left: 150px;
+    top: 50px;
+ }
+ .ip{
+    margin-left: 950px;
+    width: 330px;
+   height: 51px;
+   position: relative;
+   bottom: 20px;
+ }
+ .ip1{
+    width: 150px;
+   height: 57px;
+   position: relative;
+   bottom: 20px;
+   background-color: tomato;
+   color: aliceblue;
+  
+ }
+ .main5{
+   background-color:white;
+   width: 41cm;
+   height: 500px;
+   position: relative;
+   bottom: 220px;
+   display: flex;
+   align-items: center;
+   
+ }
+ .size{
+   position: relative;
+   right: 100px;
+   font-weight: 500;
+   font-size: medium;
+   font-style: unset;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+ #css{
+   position: relative;
+   left: 50px;
+ }
+ #grap{
+   position: relative;
+   left: 100px;
+ }
+ img{
+   position: relative;
+   left: 150px;
+   width: 200px;
+   height: 150px;
+   bottom: 50px;
+ }
+ .h3{
+   position: relative;
+   left: 180px;
+   bottom: 50px;
+ }
+ .main6{
+   background-color: tomato;
+   width: 41cm;
+   height: 150px;
+   position: relative;
+   bottom: 300px;
+ }
+ h2{
+   position: relative;
+   left: 600px;
+   top: 50px;
+   color: aliceblue;
+ }
+ .m4{
+  background-color: rgb(66, 62, 62);
+  position: relative;
+  bottom: 60px;
+  width: 41cm;
+ }
+ .am1{
+  background-color:rgb(255, 255, 255);
+  width: 41cm;
+  height:400px;
+  position: relative;
+  bottom: 70px;
+ }
+ .am2{
+  position: relative;
+  left: 100px;
+  font-weight: 200;
+ }
+ .am3{
+  background-color: rgb(66, 62, 62);
+  width: 760px;
+  height: 300px;
+  position: relative;
+  left: 100px;
+ }
+ .p3{
+  color: aliceblue;
+  position: relative;
+  top: 50px;
+  left: 10px;
+  font-weight: 200;
+  font-size: .5cm;
+  
+ }
+ .am4{
+  background-color: rgb(66, 62, 62);
+  width: 430px;
+  height: 350px;
+  color: aliceblue;
+  position: relative;
+  left: 950px;
+  bottom: 450px;
+
+ }
+ .p4{
+  position: relative;
+  top: 50px;
+  left: 10px;
+  font-weight: 200;
+ }
+ .am5{
+  background-color: tomato;
+  width: 41cm;
+  height: 150px;
+  position: relative;
+  top: 10px;
+ }
+ .s{
+  position: relative;
+  left: 100px;
+  top: -50px;
+ }
+ .s1{
+  background-color:white;
+  width: 41cm;
+  height: 850px;
+  position: relative;
+  bottom: 50px;
+ }
+ .d1{
+  background-color:whitesmoke;
+  width: 850px;
+  height: 200px;
+  position: relative;
+  left: 100px;
+ }
+ .w{
+  position: relative;
+  left: 50px;
+  top: 20px;
+ }
+ .b1{
+  position: relative;
+  left: 50px;
+  top: 10px;
+  font-size: x-large;
+ }
+ .fom1{
+  background-color: rgb(66, 62, 62);
+  width: 420px;
+  height: 400px;
+  position: relative;
+  bottom: 910px;
+  left: 1000px;
+ }
+ .pp{
+  position: relative;
+  left: 20px;
+  top: 50px;
+  color:aliceblue;
+ }
+ .f1{
+  position: relative;
+  top: 50px;
+  left: 20px;
+ }
+ input{
+  width: 312px;
+  height: 40px;
+ }
+ label{
+  color: aliceblue;
+ }
+ button{
+ background-color: tomato;
+  width: 100px;
+  height: 50px;
+  color: aliceblue;
+ }
+ .s5{
+  background-color: tomato;
+  width: 41cm;
+  height: 150px;
+  position: relative;
+bottom: 650px;
+ }
+
+ 
+
+ 
